@@ -1,0 +1,4 @@
+python .\src\create_parking_permit_map.py `
+  --geocoder arcgis `
+  --max-rows 10 `
+  --output "./output/parking_permit_zones_map_test.html"
